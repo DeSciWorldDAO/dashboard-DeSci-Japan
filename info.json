@@ -12,7 +12,8 @@
        "link": "https://descijapan.org/"
    },  {"name": "Intro",
        "description": "Intro",
-       "mediaUrl": " https://i.imgur.com/kgzAJe1.png",  "source": "image",
+       "mediaUrl": " https://i.imgur.com/kgzAJe1.png",  
+        "source": "image",
        "link": "https://descijapan.org/"}],
 "deleted":false,
 "primaryColor":"",
