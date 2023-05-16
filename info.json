@@ -1,1 +1,30 @@
-
+{"name":"DeSci Japan",
+"tokenSymbol":" ",
+"DaoOS":"Snapshot",
+"address":"",
+"description":"DeSci Japan is a community that aims to promote the adoption of DeSci in Japan.",
+"whitePaperLink":"https://medium.com/@DeSciJapan/introducing-desci-japan-a-community-aiming-to-promote-decentralized-science-6632c275f872",
+"gallery":[{
+       "name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://i.imgur.com/amGhBoI.png",
+       "source": "image",
+       "link": "https://descijapan.org/"
+   },  {"name": "Intro",
+       "description": "Intro",
+       "mediaUrl": " https://i.imgur.com/kgzAJe1.png",  "source": "image",
+       "link": ""  }],
+"deleted":false,
+"primaryColor":"",
+"twitterHandle":"DeSciJapan",
+"coingeckoId":"",
+"snapshotId":"",
+"logo":"https://i.imgur.com/amGhBoI.png",
+"telegramLink":"https://t.me/descijapan",
+"discordLink":"",
+"website":"https://descijapan.org/",
+"tokenDescription":"",
+"tokenTradeLink":"",
+"tags":["Ecosystems"]
+  
+}
